@@ -18,6 +18,12 @@ To install PyBullet with pip type
 pip install pybullet
 ```
 
+To install PyBullet with anaconda type
+```
+ conda install -c hcc pybullet 
+```
+
+
 Documentation:
 
 https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.2ye70wns7io3
